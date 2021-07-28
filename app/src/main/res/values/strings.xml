@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rant</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_custom">Custom</string>
+
+    <!-- Login page -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Sign In</string>
+    <string name="no_account">no account?</string>
+    <string name="register"><u>register</u></string>
+
+    <!-- register page -->
+    <string name="register_btn">register</string>
+
+    <!-- Home page -->
+    <string name="add_post_btn">Add a new post</string>
+
+    <!-- Profile page -->
+    <string name="logout_btn">Logout</string>
+
+    <!-- NewPost page -->
+    <string name="post_placeholder">Start typing your post here</string>
+    <string name="post_btn">Post</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268133400679",
+    "project_id": "rant-7d533",
+    "storage_bucket": "rant-7d533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268133400679:android:5ff725d8dd02c8764f94c2",
+        "android_client_info": {
+          "package_name": "com.example.rant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268133400679-pdhpio0ikfs8204pfougfh4k0lkf5228.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdY3RromltfiZJPtWgQn35Di_Z7hJ1Ipw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268133400679-pdhpio0ikfs8204pfougfh4k0lkf5228.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
